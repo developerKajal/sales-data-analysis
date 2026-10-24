@@ -24,6 +24,10 @@ This project focuses on analyzing sales data and presenting meaningful business 
 * `Sales_Data_Analysis_Project.csv` – Sales dataset in CSV format
 * `Sales_Data_Analysis_Project.xlsx` – Excel dataset
 
+## Dashboard Preview
+
+![Sales Data Analysis Dashboard](sales-dashboard.png)
+
 ## Dashboard Features
 
 * Overall sales performance analysis
